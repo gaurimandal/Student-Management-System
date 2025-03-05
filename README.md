@@ -74,4 +74,4 @@ Before setting up the project, ensure that the following dependencies and tools 
 
 This system is built to provide a **scalable and efficient** solution for hotel operations, ensuring smooth interactions between administrators, managers, hotel owners, and guests. 🚀  
 
-Let me know if you'd like any further modifications! 😊
+
